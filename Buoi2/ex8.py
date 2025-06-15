@@ -1,0 +1,6 @@
+string = input('nhap mot cau de xy ly')
+print(f'cau co {len(string)} ki tu')
+print('ki tu dau tien',string[0])
+print('ki tu cuoi cung',string[-1])
+print('4 ki tu dau tien',string[:4])
+print('4 ki tu cuoi cung',string[-4:])
